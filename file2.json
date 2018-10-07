@@ -1,0 +1,295 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCIAEAABm-jB-2ViY4HyDFs_8Z3PuoYjWEgKUHqdKVOfZT77BYLgSoAdUKxUCFXu59-JwFfnKyWkcmhkQNI0V6meSwLAEmJW9YopalPOWBAVKcl_nJJMyBlZbG-GFJMeaYmQLuKAbecxhClSSq1Eafju3F3iIqkNsbqcd5kfGo9_fMpBGYE3MXR4RHRBdmPhA0keurlKzYBP8ta2DejgP1973xdUrCkavdFbhdo8myQ6UDmA5AsAW2h7Yck0REF0Y-IDnvlMpRL5q95afh-U0OKmqDdMUJ9xeV6TX_sZG6bgurALp03iqunWV8DYupM8PmU3r2Erytl6SfBbLKqumH-oGLWUuv0lHslPIBIUu6Y7ItrtoXZPhvlgb4Gj2oTYQUGzygFhIQRjU65zAjXeXPNEMMgWgs0RoUpYGv3ZOpwd9mtMy4MSkLzFnJhg8",
+   "results" :[
+
+{
+
+
+"geography": {
+
+
+
+"latitude": 46.9574,
+
+
+
+"longitude": -117.403,
+
+
+
+"altitude": 6402.44,
+
+
+
+"direction": 171
+
+
+},
+
+
+"speed": {
+
+
+
+"horizontal": 750.766,
+
+
+
+"isGround": 0,
+
+
+
+"vertical": 10.0787
+
+
+},
+
+
+"departure": {
+
+
+
+"iataCode": "GEG",
+
+
+
+"icaoCode": "KGEG"
+
+
+},
+
+
+"arrival": {
+
+
+
+"iataCode": "PHX",
+
+
+
+"icaoCode": "KPHX"
+
+
+},
+
+
+"aircraft": {
+
+
+
+"regNumber": "N604AW",
+
+
+
+"icaoCode": "A320",
+
+
+
+"icao24": "A7D630",
+
+
+
+"iataCode": "A320"
+
+
+},
+
+
+"airline": {
+
+
+
+"iataCode": "AA",
+
+
+
+"icaoCode": "AAL"
+
+
+},
+
+
+"flight": {
+
+
+
+"iataNumber": "AA439",
+
+
+
+"icaoNumber": "AAL439",
+
+
+
+"number": "439"
+
+
+},
+
+
+"system": {
+
+
+
+"updated": "1538778361",
+
+
+
+"squawk": "1663"
+
+
+},
+
+
+"status": "en-route"
+
+},
+
+{
+
+
+"geography": {
+
+
+
+"latitude": 20.0756,
+
+
+
+"longitude": -78.9152,
+
+
+
+"altitude": 10045.7,
+
+
+
+"direction": 174
+
+
+},
+
+
+"speed": {
+
+
+
+"horizontal": 857.013,
+
+
+
+"isGround": 0,
+
+
+
+"vertical": 0
+
+
+},
+
+
+"departure": {
+
+
+
+"iataCode": "MIA",
+
+
+
+"icaoCode": "KMIA"
+
+
+},
+
+
+"arrival": {
+
+
+
+"iataCode": "LIM",
+
+
+
+"icaoCode": "SPIM"
+
+
+},
+
+
+"aircraft": {
+
+
+
+"regNumber": "CCCXH",
+
+
+
+"icaoCode": "B763",
+
+
+
+"icao24": "",
+
+
+
+"iataCode": "B763"
+
+
+},
+
+
+"airline": {
+
+
+
+"iataCode": "LP",
+
+
+
+"icaoCode": "LPE"
+
+
+},
+
+
+"flight": {
+
+
+
+"iataNumber": "LP2467",
+
+
+
+"icaoNumber": "LPE2467",
+
+
+
+"number": "2467"
+
+
+},
+
+
+"system": {
+
+
+
+"updated": "1538778361",
+
+
+
+"squawk": "0"
+
+
+},
+
+
+"status": "en-route"
+
+}] }
+
+
+
+
+
